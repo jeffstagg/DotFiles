@@ -11,7 +11,7 @@
 set $mod Mod4
 
 # Colors
-set $bg-color 	         #2f343f
+set $bg-color	         #2f343f
 set $inactive-bg-color   #2f343f
 set $text-color          #f3f4f5
 set $inactive-text-color #676E7D
